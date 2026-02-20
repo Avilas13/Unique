@@ -1,5 +1,5 @@
 # Unique
-Just some projects that i gained knowledge and was fun
+Just some projects that i gained knowledge and was fun.
 The Sorting Hat is a magical talking hat at Hogwarts School of Witchcraft and Wizardry. The hat decides which of the four "Houses" each first-year student goes to:
 
 🦁 Gryffindor
